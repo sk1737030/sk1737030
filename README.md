@@ -1,7 +1,7 @@
 ### Dongle 👋
 Backend Develop
 TIL: https://bit.ly/3sWvIA4
-
+Blog: https://dgle.dev
 <!--
 **sk1737030/sk1737030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
